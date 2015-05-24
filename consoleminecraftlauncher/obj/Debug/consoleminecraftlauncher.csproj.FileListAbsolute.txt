@@ -1,0 +1,6 @@
+D:\Important\Documents\ProjectsVS\Projects\consoleminecraftlauncher\consoleminecraftlauncher\bin\Debug\cmLauncher.exe.config
+D:\Important\Documents\ProjectsVS\Projects\consoleminecraftlauncher\consoleminecraftlauncher\bin\Debug\cmLauncher.exe
+D:\Important\Documents\ProjectsVS\Projects\consoleminecraftlauncher\consoleminecraftlauncher\bin\Debug\cmLauncher.pdb
+D:\Important\Documents\ProjectsVS\Projects\consoleminecraftlauncher\consoleminecraftlauncher\obj\Debug\consoleminecraftlauncher.csprojResolveAssemblyReference.cache
+D:\Important\Documents\ProjectsVS\Projects\consoleminecraftlauncher\consoleminecraftlauncher\obj\Debug\cmLauncher.exe
+D:\Important\Documents\ProjectsVS\Projects\consoleminecraftlauncher\consoleminecraftlauncher\obj\Debug\cmLauncher.pdb
