@@ -5,7 +5,7 @@ Console version of GameFuN Minecraft Launcher. Please, use MS Visual Studio 10 o
 https://drive.google.com/open?id=0BzXBt7LfosHYfnQ3NW01dWNuR1pFbUJldmtOdTNQQ0w0d2Yxd1p0VXl6MjhZY3BGalp3dVE&authuser=0
 
 # Download
-You can to download latest cmLauncher build from: consoleminecraftlauncher/bin/Debug/cmLauncher.exe
+You also can to download latest cmLauncher build from: consoleminecraftlauncher/bin/Debug/cmLauncher.exe
 
 # See Also:
 GameFuN Minecraft Launcher: https://github.com/Djag3r/minecraftlauncher
