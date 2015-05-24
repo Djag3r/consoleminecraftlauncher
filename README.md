@@ -8,5 +8,5 @@ https://drive.google.com/open?id=0BzXBt7LfosHYfnQ3NW01dWNuR1pFbUJldmtOdTNQQ0w0d2
 You also can to download latest cmLauncher build from: consoleminecraftlauncher/bin/Debug/cmLauncher.exe
 
 # See Also:
-GameFuN Minecraft Launcher: https://github.com/Djag3r/minecraftlauncher
+Minecraft Launcher: https://github.com/Djag3r/minecraftlauncher
 
