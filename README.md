@@ -1,5 +1,5 @@
 # Console Minecraft Launcher
-Console version of GameFuN Minecraft Launcher. Please, use MS Visual Studio 10 or higher. RUSSIAN interface.
+Console version of Minecraft Launcher. Please, use MS Visual Studio 10 or higher. RUSSIAN interface.
 
 # Official Drive
 https://drive.google.com/open?id=0BzXBt7LfosHYfnQ3NW01dWNuR1pFbUJldmtOdTNQQ0w0d2Yxd1p0VXl6MjhZY3BGalp3dVE&authuser=0
