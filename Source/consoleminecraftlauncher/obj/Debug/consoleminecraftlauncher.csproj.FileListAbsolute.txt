@@ -4,3 +4,16 @@ D:\Important\Documents\ProjectsVS\Projects\consoleminecraftlauncher\consoleminec
 D:\Important\Documents\ProjectsVS\Projects\consoleminecraftlauncher\consoleminecraftlauncher\obj\Debug\consoleminecraftlauncher.csprojResolveAssemblyReference.cache
 D:\Important\Documents\ProjectsVS\Projects\consoleminecraftlauncher\consoleminecraftlauncher\obj\Debug\cmLauncher.exe
 D:\Important\Documents\ProjectsVS\Projects\consoleminecraftlauncher\consoleminecraftlauncher\obj\Debug\cmLauncher.pdb
+D:\Important\GitHub\consoleminecraftlauncher\Source\consoleminecraftlauncher\bin\Debug\cmLauncher.exe.config
+D:\Important\GitHub\consoleminecraftlauncher\Source\consoleminecraftlauncher\obj\Debug\cmLauncher.exe
+D:\Important\GitHub\consoleminecraftlauncher\Source\consoleminecraftlauncher\obj\Debug\cmLauncher.pdb
+D:\Important\GitHub\consoleminecraftlauncher\Source\consoleminecraftlauncher\bin\Debug\cmLauncher.exe
+D:\Important\GitHub\consoleminecraftlauncher\Source\consoleminecraftlauncher\bin\Debug\cmLauncher.pdb
+D:\Important\GitHub\consoleminecraftlauncher\Source\consoleminecraftlauncher\obj\Debug\consoleminecraftlauncher.csprojResolveAssemblyReference.cache
+E:\Important\GitHub\consoleminecraftlauncher\Source\consoleminecraftlauncher\bin\Debug\cmLauncher.exe.config
+E:\Important\GitHub\consoleminecraftlauncher\Source\consoleminecraftlauncher\obj\Debug\cmLauncher.exe
+E:\Important\GitHub\consoleminecraftlauncher\Source\consoleminecraftlauncher\obj\Debug\cmLauncher.pdb
+E:\Important\GitHub\consoleminecraftlauncher\Source\consoleminecraftlauncher\bin\Debug\cmLauncher.exe
+E:\Important\GitHub\consoleminecraftlauncher\Source\consoleminecraftlauncher\bin\Debug\cmLauncher.pdb
+E:\Important\GitHub\consoleminecraftlauncher\Source\consoleminecraftlauncher\bin\Debug\System.Net.Http.dll
+E:\Important\GitHub\consoleminecraftlauncher\Source\consoleminecraftlauncher\obj\Debug\consoleminecraftlauncher.csprojResolveAssemblyReference.cache
